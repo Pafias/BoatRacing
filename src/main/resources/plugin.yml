@@ -2,7 +2,7 @@ name: BoatRacing
 version: ${project.version}
 main: me.pafias.boatracing.BoatRacing
 api-version: 1.16
-authors: [ Pafias ]
+author: Pafias
 description: BoatRacing
 depend: [ProtocolLib, helper]
 commands:
